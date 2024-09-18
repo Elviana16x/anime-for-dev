@@ -1,5 +1,5 @@
 ![alt text](https://github.com/Elviana16x/anime-for-dev/blob/main/image%20(62).png)
-![Name](https://img.shields.io/badge/Elviana-Hana%20Asyiva-blue-Pinkly-Lia%20Sintiawati-blue-Firman-Aditia%20Akbar-Kiana%20Dinda)
+![text](https://img.shields.io/badge/Elviana-Hana%20Asyiva-blue-Pinkly-Lia%20Sintiawati-blue-Firman-Aditia%20Akbar-Kiana%20Dinda)
 
 # Animes for Developer
 
