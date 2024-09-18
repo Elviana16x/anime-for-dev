@@ -8,6 +8,6 @@
 
 Tanggal Rilis : Film ini akan dirilis pada 14 April 2025
 
--Kutipan dari C-16 Studio ‘Observing the Universe’ adalah cerita tentang seorang anak bernama 'Vee' yang ingin mempelajari tentang alam semesta.
+- Kutipan dari C-16 Studio ‘Observing the Universe’ adalah cerita tentang seorang anak bernama 'Vee' yang ingin mempelajari tentang alam semesta.
 
--Kami berharap film ini bisa menginspirasi penonton muda untuk melihat ke luar batas dan mengejar impian mereka, sekaligus memberikan pengalaman visual yang menakjubkan.”
+- Kami berharap film ini bisa menginspirasi penonton muda untuk melihat ke luar batas dan mengejar impian mereka, sekaligus memberikan pengalaman visual yang menakjubkan.”
