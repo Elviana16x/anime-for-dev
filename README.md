@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Elviana16x/anime-for-dev/blob/main/image%20(62).png)
 
-![Open In Collab](https://img.shields.io/badge/C16_Studio-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Open In Collab](https://img.shields.io/badge/C16_Studio_Observing_The_Universe-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ![Bitcoin](https://img.shields.io/badge/Elviana-Hana%20Asyiva-blue-Pinkly-Lia%20Sintiawati-blue-Firman-Aditia%20Akbar-Kiana%20Dinda)
 
