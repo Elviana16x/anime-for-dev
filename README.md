@@ -1,6 +1,8 @@
 ![Open In Collab](https://img.shields.io/badge/C16_Studio_~_Observing_The_Universe-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![alt text](https://github.com/Elviana16x/anime-for-dev/blob/main/image%20(62).png)
 
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 ![Bitcoin](https://img.shields.io/badge/Elviana-Hana%20Asyiva-blue-Pinkly-Lia%20Sintiawati-blue-Firman-Aditia%20Akbar-Kiana%20Dinda)
 
 # Animes for Developer
