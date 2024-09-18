@@ -1,4 +1,4 @@
-![Sakura-san reading C++ book](https://repository-images.githubusercontent.com/302617083/fb5cbc00-0a67-11eb-9c37-3f829f3f7382)
+![alt text](https://github.com/Elviana16x/anime-for-dev/blob/main/image%20(62).png)
 _(Nene Sakura, a newbie programmer from **New Game**. Image by [destex](https://whvn.cc/83q7ek) on Wallhaven)_
 
 # Animes for Developer
